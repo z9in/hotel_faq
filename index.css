@@ -9,13 +9,17 @@ body {
    height : 100vh;
    display: flex;
    justify-content: center;
+   align-items: center
 }
 
 .wrap {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    max-width : 400px;
+    width : 400px;
+    height : 700px;
+    outline:1px solid #ccc;
+}
 .key_word {
     margin-top: 50px;
     width: 70%;
