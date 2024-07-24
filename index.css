@@ -5,6 +5,7 @@
 }
 
 body {
+    margin : center
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
